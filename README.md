@@ -7,3 +7,5 @@ springboot
 springsecritry
 ## 脚本
 utils 目录有有根据数据库自动生成实体类的脚本
+##　注意
+域名和数据库密码，已屏蔽
